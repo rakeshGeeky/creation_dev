@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "9f4f8646-44d5-47f8-8f58-3847edd3e8ed",
+    "Name": "UsrPage_hbu1bgn",
+    "ModifiedOnUtc": "\/Date(1679896267000)\/",
+    "Parent": {
+      "UId": "97e48060-149c-408f-9f17-8ba82c400249",
+      "Name": "PageWithAreaFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Realty visit (Freedom UI) form page",
+    "DependsOn": []
+  }
+}

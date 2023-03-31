@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "7810b228-ff88-4f08-b566-c85ba4240cad",
+    "Name": "UsrCSharpProcess",
+    "ModifiedOnUtc": "\/Date(1680067612000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "CSharp example",
+    "DependsOn": []
+  }
+}

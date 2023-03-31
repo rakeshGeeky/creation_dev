@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Realty Classic&quot;" />
+			<Item Name="LocalizableStrings.MyButtonCaption.Value" Value="Push!" />
+			<Item Name="LocalizableStrings.RunWebServiceButtonCaption.Value" Value="Run Service" />
+			<Item Name="LocalizableStrings.Tab2c2465e8TabLabelTabCaption.Value" Value="Visits" />
+			<Item Name="LocalizableStrings.UsrSchemad677bec8Detailb36b8d9aDetailCaptionOnPage.Value" Value="Realty visit (classic)" />
+			<Item Name="LocalizableStrings.ValueMustBeGreaterThanZero.Value" Value="Value must be greater than zero" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c0c91889-0881-4236-b669-ef656b75139f",
+    "Name": "UsrAvgPriceOutputPage",
+    "ModifiedOnUtc": "\/Date(1680067303000)\/",
+    "Parent": {
+      "UId": "5826ff24-46c6-4169-9223-2aaad9ec2e18",
+      "Name": "BasePageSimpleProcessTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Avg Price Calculate Output Page",
+    "DependsOn": []
+  }
+}

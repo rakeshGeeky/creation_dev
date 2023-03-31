@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "31f7e411-2c05-4d92-ad50-c5cdfca5dcce",
+    "Name": "UsrRealtyVisitClassic",
+    "ModifiedOnUtc": "\/Date(1679669297000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Realty visit (classic)",
+    "DependsOn": []
+  }
+}
